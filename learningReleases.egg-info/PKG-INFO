@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: learningReleases
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/Irving-Main-Ophelia/learningReleases
+Author: Irving Hernández
+Author-email: irving.hernandez@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

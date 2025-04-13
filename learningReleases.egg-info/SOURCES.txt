@@ -1,0 +1,7 @@
+README.md
+setup.py
+learningReleases/__init__.py
+learningReleases.egg-info/PKG-INFO
+learningReleases.egg-info/SOURCES.txt
+learningReleases.egg-info/dependency_links.txt
+learningReleases.egg-info/top_level.txt
